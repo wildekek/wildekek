@@ -1,5 +1,13 @@
-### Hi there 👋
+### 👋 Hi,  I'm Willem Vooijs aka Wildekek.
 
+I'm an experienced product manager, looking for gigs in sustainable energy ⚡️.
+
+You can reach me at:
+- 📫 willem@vooijs.eu
+- 🏠 https://willem.vooijs.eu
+- 🐦 https://twitter.com/wildekek
+- 💼 https://www.linkedin.com/in/willemvooijs/
+  
 <!--
 **wildekek/wildekek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

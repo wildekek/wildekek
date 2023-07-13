@@ -1,4 +1,4 @@
-### 👋 Hi,  I'm Willem Vooijs aka Wildekek.
+### 👋 Hi,  I'm Willem Vooijs aka wildekek.
 
 I'm an experienced product manager, looking for gigs in sustainable energy ⚡️.
 

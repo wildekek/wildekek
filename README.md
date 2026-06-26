@@ -6,7 +6,6 @@ You can reach me at:
 - 📫 willem@vooijs.eu
 - 🏠 https://willem.vooijs.eu
 - 💼 https://www.linkedin.com/in/willemvooijs/
-- 𝕏 https://x.com/wildekek
   
 <!--
 **wildekek/wildekek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

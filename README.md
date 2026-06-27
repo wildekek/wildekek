@@ -4,7 +4,7 @@ I'm an experienced product manager, looking for gigs in sustainable energy ⚡�
 
 You can reach me at:
 - 📫 willem@vooijs.eu
-- 🏠 https://www.vooijs.eu
+- 🏠 https://vooijs.eu
 - 💼 https://www.linkedin.com/in/willemvooijs/
   
 <!--
